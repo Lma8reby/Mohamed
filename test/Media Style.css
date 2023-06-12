@@ -1,0 +1,202 @@
+
+/* Mobile */
+
+@media (max-width: 767px) {
+    .right-part ul{
+        display: none;
+
+    }
+    .fi-br-menu-burger{
+        display: inline-block;
+        margin-left: 65% ;
+        color: white;
+        padding: 5px;
+
+    }
+    .about-smith{
+        width: 60%;
+    }
+    .employee-img{
+        width: 100%;
+    }
+    .cv-smith{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .details li{
+        width: 100%;
+        margin: 3px;
+        
+    }
+ 
+    .btn-cv{
+        width: 100%;
+        font-size: 14px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: first baseline;
+        font-weight: 200;
+    }
+    .dwn-cv{
+        width: 50%;
+        padding: 5px 10px;        
+
+    }
+    .hire-me{
+        padding: 10px 10px;        
+        width: 50%;
+    }
+    .section-two{
+        width: 100%;
+    }
+    .serup{
+        display:flex;
+        justify-content: space-between;
+    
+        width: 90%;
+        flex-wrap: wrap;
+    }
+    .services{
+        width: 100%;
+        margin: 10px;
+        flex-wrap: wrap;
+
+    }
+    .section-three{
+        width: 100%;
+
+    }
+    .list-link button{
+    
+        width: 25%;
+        margin-left: 5px;
+    }
+    .pictures{
+        width: 85%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .pic{
+        width: 100%;
+
+    }
+    .section4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+    }
+    .main-cunt{
+        width: 85%;
+
+    }
+    .cunt{
+        width: 100%;
+        margin-top: 10px;
+    }
+    .feed{
+        width: 85%;
+     
+
+    }
+    .alex-photo img{
+        width: 70%;
+    }
+    .alex-detil{
+        width: 70%;
+        margin-left: 50px;
+        margin-top: 100px;
+    }
+    .backfeed{
+        width: 100%;
+    }
+    .blogs-item{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .blogs{
+        width: 100%;
+    }
+    .contact{
+        text-align: center;
+    }
+    .btnform{
+        margin: auto;
+    }
+}
+
+/* Small Screens */
+
+@media (min-width: 768px) {
+    .section-two{
+        width: 100%;
+    }
+    .serup{
+        display:flex;
+        justify-content: space-between;
+    
+        width: 90%;
+        flex-wrap: wrap;
+    } 
+    
+    .section-three{
+        width: 100%;
+
+    }
+    .list-link button{
+    
+        margin-left: 3%;
+    }
+    .pictures{
+        width: 85%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+   
+    .section4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+    }
+    .main-cunt{
+        width: 85%;
+
+    }
+    .cunt{
+        margin-top: 20px;
+    }
+    
+    .blogs-item{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+       
+    }
+    .blogs{
+        width: 50%;
+    }
+    .contact{
+        text-align: center;
+    }
+}
+
+/* Medium Screens */
+
+@media (min-width: 992px) {
+
+}
+
+/* Large Screens */
+
+@media (min-width: 1200px) {
+}
+
+/* Custom */
+
+@media (max-width: 1199px) {
+}
